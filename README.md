@@ -41,8 +41,8 @@ Testing restful API calls with Postman
     ```json
    Body
     {
-        "username": "lernantino",
-        "email": "lernantino@gmail.com"
+        "username": "abc",
+        "email": "abc@gmail.com"
     }
     ```
 ---
@@ -62,8 +62,8 @@ Testing restful API calls with Postman
      Body
     {
     "thoughtText": "Here's a cool thought...",
-    "username": "lernantino",
-    "userId": "5edff358a0fcb779aa7b118b"
+    "username": "abc",
+    "userId": "zxzcdfedweeqwqwqs"
     }
     ```
 ---
@@ -79,8 +79,8 @@ Testing restful API calls with Postman
     ```json
   Body
     {
-    "reactionBody":"Hell Yeah!!",
-    "username":"lernantino"
+    "reactionBody":"Nice!!",
+    "username":"abc"
     }
 ---
 **`/api/thoughts/:thoughtId/reactions/:reactionId`**
